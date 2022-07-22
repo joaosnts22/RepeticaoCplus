@@ -1,0 +1,2 @@
+O código repete os numeros naturais menores e iguais 
+do número selecionado, e diminui em um cada repetição, até chegar em um.

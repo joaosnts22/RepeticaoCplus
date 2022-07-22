@@ -1,0 +1,1 @@
+O código mostra números ímpares naturais menores que o selecionado

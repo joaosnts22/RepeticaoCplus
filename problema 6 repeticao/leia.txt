@@ -1,0 +1,1 @@
+O código conta o número de Letras (A) no nome selecionado.

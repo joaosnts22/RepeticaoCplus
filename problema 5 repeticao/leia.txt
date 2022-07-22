@@ -1,0 +1,2 @@
+O código mostra a soma dos números ímpares 
+e pares de um número selecionado.
